@@ -11,6 +11,8 @@
    
     
 }
+
+
 .aboutme {
     color: rgb(192, 51, 51);
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -34,6 +36,8 @@ left: 3%;
 }
 .aboutmelink{
     align-items: center;
+    position: relative;
+    margin: 0 auto;
 }
 .portfoliolink{
     align-items: center;
@@ -86,6 +90,24 @@ left: 3%;
     "g h"
     "i j";
     position: relative;
+}
+
+@media only screen and (max-width: 600px){
+    .box{
+    display: grid;
+    grid-template-columns: 1fr, 1fr;
+    grid-template-rows: repeat(5, 1fr);
+    grid-template-areas: 
+    "a"
+    "b"
+    "c"
+    "d"
+    "e f"
+    "g h"
+    "i j";
+    width: 100%;
+    margin: 0 auto;
+}
 }
 .shoe{
    grid-area: a;
