@@ -88,7 +88,7 @@ left: 3%;
     "e f"
     "g h"
     "i j";
-    position: relative;
+    justify-items: center;
 }
 
 @media only screen and (max-width: 600px){
@@ -101,9 +101,12 @@ left: 3%;
     "b"
     "c"
     "d"
-    "e f"
-    "g h"
-    "i j";
+    "e"
+    "f"
+    "g"
+    "h"
+    "i"
+    "j";
     width: 100%;
     margin: 0 auto;
 }
