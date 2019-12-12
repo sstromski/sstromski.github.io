@@ -1,2 +1,1 @@
-# boilerPlate
-basic starting file structure for Umass Dartmouth
+Creating this portfolio site was one of the most challenging but interesting projects that I have done. When deciding what projects I wanted to put on display, I wanted to choose ones that I was proud of, but wanted to have different types of projects in order to show my versitility creatively. Some things that I found myself struggling with were the formatting and sizing of the graphics on the site. My buttons linking to my other pages were all over the place in terms of position and size, and I was struggling with trying to center the grid I created for my portfolio pieces. However, I was able to overcome tose issues, and I was extremely satisified with how my website ended up turning out.
